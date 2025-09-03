@@ -21,7 +21,7 @@ git clone https://github.com/your-username/kanye-says.git
 cd kanye-says
 ---
 
-## Install dependencies
+#### Install dependencies
 pip install requests
 
 ---
