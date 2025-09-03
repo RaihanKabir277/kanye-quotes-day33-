@@ -35,8 +35,11 @@ Built with **Tkinter** for the GUI and **Requests** for fetching quotes.
 
 ---
 
+## 🖼️ Preview
+Here’s how the app looks in action:  
+![App Screenshot](kanye_quote_screenshot.png)
 
-
+---
 
 
 ## 📦 Requirements
