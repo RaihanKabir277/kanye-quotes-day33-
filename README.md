@@ -19,14 +19,14 @@ Built with **Tkinter** for GUI and **Requests** for fetching quotes.
 ```bash
 git clone https://github.com/your-username/kanye-says.git
 cd kanye-says
-### 2.**Install dependencies**
+### 2.Install dependencies
 pip install requests
 
-### 3.**Project Structure**
--├── background.png     # Background image for the canvas
--├── kanye.png          # Kanye button image
--├── main.py            # Main Python script
--└── README.md          # Project documentation
+### 3.Project Structure
+├── background.png     # Background image for the canvas
+├── kanye.png          # Kanye button image
+├── main.py            # Main Python script
+└── README.md          # Project documentation
 
 ## 🖼️ Preview
 
